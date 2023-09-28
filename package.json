@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "cors": "^2.8.5",
     "@supabase/supabase-js": "^2.36.0",
     "fetch": "^1.1.0",
     "follow-redirects": "^1.15.3",
