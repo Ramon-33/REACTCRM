@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@supabase/supabase-js": "^2.36.0",
+    "fetch": "^1.1.0",
+    "follow-redirects": "^1.15.3",
+    "fs": "^0.0.1-security",
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
     "@fullcalendar/core": "^5.11.3",
